@@ -67,6 +67,7 @@ glob2==0.7
 greenlet==0.4.15
 h5py==2.10.0
 HeapDict==1.0.1
+heroku==0.1.4
 html5lib==1.0.1
 hypothesis==5.5.4
 idna==2.8
@@ -175,7 +176,7 @@ pytest-astropy-header==0.1.2
 pytest-doctestplus==0.5.0
 pytest-openfiles==0.4.0
 pytest-remotedata==0.3.2
-python-dateutil==2.8.1
+python-dateutil==1.5
 python-jsonrpc-server==0.3.4
 python-language-server==0.31.7
 pytz==2019.3
