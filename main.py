@@ -4,8 +4,8 @@ import streamlit as st
 
 def main():
     """A Simple EDA App"""
-    st.title("Iris EDA App with streamlit")
-    st.subheader("Streamlit is cool")
+    st.title("Anmol Chawla Stock Screener Application")
+    st.subheader("This is a pain")
 
 if __name__=='__main__':
     main()
