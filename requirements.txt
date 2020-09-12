@@ -1,35 +1,51 @@
+alpaca==1.0.0
+alpaca-trade-api==0.50.1
 altair==4.1.0
-argon2-cffi==20.1.0
+argon2-cffi @ file:///C:/ci/argon2-cffi_1596828549974/work
 astor==0.8.1
-attrs==20.1.0
+attrs @ file:///tmp/build/80754af9/attrs_1598374659300/work
 backcall==0.2.0
 base58==2.0.1
 bleach==3.1.5
 blinker==1.4
 boto3==1.14.52
 botocore==1.17.52
+brotlipy==0.7.0
 cachetools==4.1.1
 certifi==2020.6.20
-cffi==1.14.2
+cffi @ file:///C:/ci/cffi_1598352799320/work
 chardet==3.0.4
 click==7.1.2
 colorama==0.4.3
+cryptography @ file:///C:/ci/cryptography_1598873979408/work
+cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 docutils==0.15.2
 entrypoints==0.3
 enum-compat==0.0.3
-idna==2.10
-importlib-metadata==1.7.0
-jedi==0.17.2
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+importlib-metadata @ file:///C:/ci/importlib-metadata_1593446525189/work
+ipykernel @ file:///C:/ci/ipykernel_1596208728219/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1598883894321/work
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+jedi @ file:///C:/ci/jedi_1596472767194/work
 Jinja2==2.11.2
 jmespath==0.10.0
-jsonschema==3.2.0
+joblib==0.16.0
+json5==0.9.5
+jsonschema @ file:///C:/ci/jsonschema_1594363671836/work
 jupyter-client==6.1.7
 jupyter-core==4.6.3
-MarkupSafe==1.1.1
-mistune==0.8.4
-nbconvert==5.6.1
+jupyterlab==2.2.6
+jupyterlab-server @ file:///tmp/build/80754af9/jupyterlab_server_1594164409481/work
+kiwisolver==1.2.0
+MarkupSafe @ file:///C:/ci/markupsafe_1594405949945/work
+matplotlib==3.3.1
+mistune @ file:///C:/ci/mistune_1594373272338/work
+mnist==0.2.2
+nbconvert @ file:///C:/ci/nbconvert_1594372737468/work
 nbformat==5.0.7
 notebook==6.1.3
 numpy==1.19.1
@@ -39,37 +55,50 @@ pandocfilters==1.4.2
 parso==0.7.1
 pathlib==1.0.1
 pathtools==0.1.2
-pickleshare==0.7.5
+pickleshare @ file:///C:/ci/pickleshare_1594374056827/work
 Pillow==7.2.0
 prometheus-client==0.8.0
-prompt-toolkit==3.0.7
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1598885458782/work
 protobuf==3.13.0
 pyarrow==1.0.1
-pycparser==2.20
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
 pydeck==0.5.0b1
 Pygments==2.6.1
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
 pyparsing==2.4.7
 pyrsistent==0.16.0
+PySocks @ file:///C:/ci/pysocks_1594394709107/work
 python-dateutil==2.8.1
 pytz==2020.1
+pywin32==228
 pywinpty==0.5.7
 pyzmq==19.0.2
-requests==2.24.0
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
 s3transfer==0.3.3
+scikit-learn==0.23.2
+scipy==1.5.2
 Send2Trash==1.5.0
 six==1.15.0
+sklearn==0.0
 streamlit==0.65.2
 terminado==0.8.3
 testpath==0.4.4
+threadpoolctl==2.1.0
 toml==0.10.1
 toolz==0.10.0
 tornado==6.0.4
+traitlets==5.0.0
 tzlocal==2.1
-urllib3==1.25.10
+urllib3 @ file:///tmp/build/80754af9/urllib3_1597086586889/work
 validators==0.18.0
+vega-datasets==0.8.0
 watchdog==0.10.3
-wcwidth==0.2.5
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
+websocket-client==0.57.0
+websockets==8.1
 widgetsnbextension==3.5.1
+win-inet-pton==1.1.0
 wincertstore==0.2
+xgboost==1.2.0
 zipp==3.1.0
