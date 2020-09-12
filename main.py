@@ -5,7 +5,7 @@ import src.pages.stockscreener
 import src.pages.mnist
 import src.pages.about
 import streamlit.components.v1 as stc
-
+#
 
 MENU = {
     "Home" : src.pages.home,
